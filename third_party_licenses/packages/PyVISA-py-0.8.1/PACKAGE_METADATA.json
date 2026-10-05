@@ -1,0 +1,34 @@
+{
+  "name": "PyVISA-py",
+  "version": "0.8.1",
+  "license_expression": "",
+  "license_metadata": "The MIT License\n\nCopyright (c) 2014 PyVISA-py Authors and contributors. See AUTHORS\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+  "license_classifiers": [
+    "License :: OSI Approved :: MIT License"
+  ],
+  "declared_license_files": [
+    "LICENSE",
+    "AUTHORS"
+  ],
+  "project_urls": [
+    "homepage, https://github.com/pyvisa/pyvisa-py",
+    "documentation, https://pyvisa-py.readthedocs.io/en/latest/",
+    "repository, https://github.com/pyvisa/pyvisa-py",
+    "changelog, https://github.com/pyvisa/pyvisa-py/blob/main/CHANGES"
+  ],
+  "home_page": "",
+  "copied_files": [
+    {
+      "installed_relative_path": "pyvisa_py-0.8.1.dist-info/licenses/AUTHORS",
+      "saved_path": "packages/PyVISA-py-0.8.1/001_AUTHORS",
+      "sha256": "cfd38d5b76335802d77e7aec35923d791cbbcc1fba4410317ec9950aa53c27fd"
+    },
+    {
+      "installed_relative_path": "pyvisa_py-0.8.1.dist-info/licenses/LICENSE",
+      "saved_path": "packages/PyVISA-py-0.8.1/002_LICENSE",
+      "sha256": "d4db1413d2f8f451c9c6281dfe73acdc946658b528769fce0939db3903883b0a"
+    }
+  ],
+  "review_notes": []
+}
+

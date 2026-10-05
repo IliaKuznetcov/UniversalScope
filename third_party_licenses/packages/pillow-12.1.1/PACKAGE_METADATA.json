@@ -1,0 +1,29 @@
+{
+  "name": "pillow",
+  "version": "12.1.1",
+  "license_expression": "MIT-CMU",
+  "license_metadata": "",
+  "license_classifiers": [],
+  "declared_license_files": [
+    "LICENSE"
+  ],
+  "project_urls": [
+    "Changelog, https://github.com/python-pillow/Pillow/releases",
+    "Documentation, https://pillow.readthedocs.io",
+    "Funding, https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=pypi",
+    "Homepage, https://python-pillow.github.io",
+    "Mastodon, https://fosstodon.org/@pillow",
+    "Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+    "Source, https://github.com/python-pillow/Pillow"
+  ],
+  "home_page": "",
+  "copied_files": [
+    {
+      "installed_relative_path": "pillow-12.1.1.dist-info/licenses/LICENSE",
+      "saved_path": "packages/pillow-12.1.1/001_LICENSE",
+      "sha256": "926df5f888a7337fd4126a435202edf2847312be81a167df91a6d70cfa3f2ed3"
+    }
+  ],
+  "review_notes": []
+}
+

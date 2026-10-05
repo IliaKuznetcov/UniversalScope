@@ -1,0 +1,28 @@
+{
+  "name": "kiwisolver",
+  "version": "1.4.9",
+  "license_expression": "",
+  "license_metadata": "=========================\n The Kiwi licensing terms\n=========================\nKiwi is licensed under the terms of the Modified BSD License (also known as\nNew or Revised BSD), as follows:\n\nCopyright (c) 2013-2025, Nucleic Development Team\n\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this\nlist of conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this\nlist of conditions and the following disclaimer in the documentation and/or\nother materials provided with the distribution.\n\nNeither the name of the Nucleic Development Team nor the names of its\ncontributors may be used to endorse or promote products derived from this\nsoftware without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nAbout Kiwi\n----------\nChris Colbert began the Kiwi project in December 2013 in an effort to\ncreate a blisteringly fast UI constraint solver. Chris is still the\nproject lead.\n\nThe Nucleic Development Team is the set of all contributors to the Nucleic\nproject and its subprojects.\n\nThe core team that coordinates development on GitHub can be found here:\nhttp://github.com/nucleic. The current team consists of:\n\n* Chris Colbert\n\nOur Copyright Policy\n--------------------\nNucleic uses a shared copyright model. Each contributor maintains copyright\nover their contributions to Nucleic. But, it is important to note that these\ncontributions are typically only changes to the repositories. Thus, the Nucleic\nsource code, in its entirety is not the copyright of any single person or\ninstitution. Instead, it is the collective copyright of the entire Nucleic\nDevelopment Team. If individual contributors want to maintain a record of what\nchanges/contributions they have specific copyright on, they should indicate\ntheir copyright in the commit message of the change, when they commit the\nchange to one of the Nucleic repositories.\n\nWith this in mind, the following banner should be used in any source code file\nto indicate the copyright and license terms:\n\n#------------------------------------------------------------------------------\n# Copyright (c) 2013-2025, Nucleic Development Team.\n#\n# Distributed under the terms of the Modified BSD License.\n#\n# The full license is in the file LICENSE, distributed with this software.\n#------------------------------------------------------------------------------\n",
+  "license_classifiers": [
+    "License :: OSI Approved :: BSD License"
+  ],
+  "declared_license_files": [
+    "LICENSE"
+  ],
+  "project_urls": [
+    "homepage, https://github.com/nucleic/kiwi",
+    "documentation, https://kiwisolver.readthedocs.io/en/latest/",
+    "repository, https://github.com/nucleic/kiwi",
+    "changelog, https://github.com/nucleic/kiwi/blob/main/releasenotes.rst"
+  ],
+  "home_page": "",
+  "copied_files": [
+    {
+      "installed_relative_path": "kiwisolver-1.4.9.dist-info/licenses/LICENSE",
+      "saved_path": "packages/kiwisolver-1.4.9/001_LICENSE",
+      "sha256": "ec817f05f420b00835020fb5c7067433ade3424d256dd3a78a1a8f8a5d9d87f3"
+    }
+  ],
+  "review_notes": []
+}
+

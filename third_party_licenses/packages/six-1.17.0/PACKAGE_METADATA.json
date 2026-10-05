@@ -1,0 +1,23 @@
+{
+  "name": "six",
+  "version": "1.17.0",
+  "license_expression": "",
+  "license_metadata": "MIT",
+  "license_classifiers": [
+    "License :: OSI Approved :: MIT License"
+  ],
+  "declared_license_files": [
+    "LICENSE"
+  ],
+  "project_urls": [],
+  "home_page": "https://github.com/benjaminp/six",
+  "copied_files": [
+    {
+      "installed_relative_path": "six-1.17.0.dist-info/LICENSE",
+      "saved_path": "packages/six-1.17.0/001_LICENSE",
+      "sha256": "4375ba20e2b9c6c4e7cad2940a628fd90e95cc3d50ee92aae755715d8ba1fbd0"
+    }
+  ],
+  "review_notes": []
+}
+

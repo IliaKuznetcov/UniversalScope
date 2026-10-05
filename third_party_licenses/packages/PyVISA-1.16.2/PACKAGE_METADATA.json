@@ -1,0 +1,34 @@
+{
+  "name": "PyVISA",
+  "version": "1.16.2",
+  "license_expression": "",
+  "license_metadata": "The MIT License\n\nCopyright (c) 2005-2024 PyVISA Authors and contributors. See AUTHORS\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+  "license_classifiers": [
+    "License :: OSI Approved :: MIT License"
+  ],
+  "declared_license_files": [
+    "LICENSE",
+    "AUTHORS"
+  ],
+  "project_urls": [
+    "homepage, https://github.com/pyvisa/pyvisa",
+    "documentation, https://pyvisa.readthedocs.io/en/latest/",
+    "repository, https://github.com/pyvisa/pyvisa",
+    "changelog, https://github.com/pyvisa/pyvisa/blob/main/CHANGES"
+  ],
+  "home_page": "",
+  "copied_files": [
+    {
+      "installed_relative_path": "pyvisa-1.16.2.dist-info/licenses/AUTHORS",
+      "saved_path": "packages/PyVISA-1.16.2/001_AUTHORS",
+      "sha256": "9de624d84e87d24e6d523704f1eecfb2a9296ddb1bb6fc8f20f7d3c936238486"
+    },
+    {
+      "installed_relative_path": "pyvisa-1.16.2.dist-info/licenses/LICENSE",
+      "saved_path": "packages/PyVISA-1.16.2/002_LICENSE",
+      "sha256": "212d52221929294cd44f561c07089ea2a40a599e5af013cb3047460a918fceb2"
+    }
+  ],
+  "review_notes": []
+}
+

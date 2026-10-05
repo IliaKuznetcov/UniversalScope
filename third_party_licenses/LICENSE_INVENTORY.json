@@ -1,0 +1,1113 @@
+{
+  "scope": "Installed environment inventory; not an executable component inventory.",
+  "python_version": "3.13.9",
+  "python_implementation": "CPython",
+  "platform": "Windows",
+  "architecture": "AMD64",
+  "python_license_file": {
+    "saved_path": "Python/LICENSE.txt",
+    "sha256": "62bec384df47b0328307db41455ff6ea2559e5546b394ac69148561b21703120"
+  },
+  "packages": [
+    {
+      "name": "altgraph",
+      "version": "0.17.5",
+      "license_expression": "",
+      "license_metadata": "MIT",
+      "license_classifiers": [
+        "License :: OSI Approved :: MIT License"
+      ],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "Documentation, https://altgraph.readthedocs.io/en/latest/",
+        "Issue tracker, https://github.com/ronaldoussoren/altgraph/issues",
+        "Repository, https://github.com/ronaldoussoren/altgraph"
+      ],
+      "home_page": "https://altgraph.readthedocs.io",
+      "copied_files": [
+        {
+          "installed_relative_path": "altgraph-0.17.5.dist-info/LICENSE",
+          "saved_path": "packages/altgraph-0.17.5/001_LICENSE",
+          "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "contourpy",
+      "version": "1.3.3",
+      "license_expression": "",
+      "license_metadata": "BSD 3-Clause License\n\n Copyright (c) 2021-2025, ContourPy Developers.\n All rights reserved.\n\n Redistribution and use in source and binary forms, with or without\n modification, are permitted provided that the following conditions are met:\n\n 1. Redistributions of source code must retain the above copyright notice, this\n    list of conditions and the following disclaimer.\n\n 2. Redistributions in binary form must reproduce the above copyright notice,\n    this list of conditions and the following disclaimer in the documentation\n    and/or other materials provided with the distribution.\n\n 3. Neither the name of the copyright holder nor the names of its\n    contributors may be used to endorse or promote products derived from\n    this software without specific prior written permission.\n\n THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\n DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\n FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\n SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\n CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\n OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\n OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "declared_license_files": [],
+      "project_urls": [
+        "Homepage, https://github.com/contourpy/contourpy",
+        "Changelog, https://contourpy.readthedocs.io/en/latest/changelog.html",
+        "Documentation, https://contourpy.readthedocs.io",
+        "Repository, https://github.com/contourpy/contourpy"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "contourpy-1.3.3.dist-info/LICENSE",
+          "saved_path": "packages/contourpy-1.3.3/001_LICENSE",
+          "sha256": "8553102e03001dd966278098cc027d0683c412b34ea141351b060be4330f39a9"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "cycler",
+      "version": "0.12.1",
+      "license_expression": "",
+      "license_metadata": "Copyright (c) 2015, matplotlib project\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above copyright notice, this\n  list of conditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above copyright notice,\n  this list of conditions and the following disclaimer in the documentation\n  and/or other materials provided with the distribution.\n\n* Neither the name of the matplotlib project nor the names of its\n  contributors may be used to endorse or promote products derived from\n  this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "homepage, https://matplotlib.org/cycler/",
+        "repository, https://github.com/matplotlib/cycler"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "cycler-0.12.1.dist-info/LICENSE",
+          "saved_path": "packages/cycler-0.12.1/001_LICENSE",
+          "sha256": "f1218143d766da3fea66f13396b7f15df46a83303f29bf96ba6e98eb4d42f408"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "fonttools",
+      "version": "4.61.1",
+      "license_expression": "",
+      "license_metadata": "MIT",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE",
+        "LICENSE.external"
+      ],
+      "project_urls": [],
+      "home_page": "http://github.com/fonttools/fonttools",
+      "copied_files": [
+        {
+          "installed_relative_path": "fonttools-4.61.1.dist-info/licenses/LICENSE",
+          "saved_path": "packages/fonttools-4.61.1/001_LICENSE",
+          "sha256": "22bef80697ecfaa17f97e62b9a26dfa12820be05583e8dd12ad169b241274c99"
+        },
+        {
+          "installed_relative_path": "fonttools-4.61.1.dist-info/licenses/LICENSE.external",
+          "saved_path": "packages/fonttools-4.61.1/002_LICENSE.external",
+          "sha256": "b082a5f86775b2641f01bccb8b9c82908481de5f502bb254b1e13bfc2a9f303d"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "kiwisolver",
+      "version": "1.4.9",
+      "license_expression": "",
+      "license_metadata": "=========================\n The Kiwi licensing terms\n=========================\nKiwi is licensed under the terms of the Modified BSD License (also known as\nNew or Revised BSD), as follows:\n\nCopyright (c) 2013-2025, Nucleic Development Team\n\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this\nlist of conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this\nlist of conditions and the following disclaimer in the documentation and/or\nother materials provided with the distribution.\n\nNeither the name of the Nucleic Development Team nor the names of its\ncontributors may be used to endorse or promote products derived from this\nsoftware without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nAbout Kiwi\n----------\nChris Colbert began the Kiwi project in December 2013 in an effort to\ncreate a blisteringly fast UI constraint solver. Chris is still the\nproject lead.\n\nThe Nucleic Development Team is the set of all contributors to the Nucleic\nproject and its subprojects.\n\nThe core team that coordinates development on GitHub can be found here:\nhttp://github.com/nucleic. The current team consists of:\n\n* Chris Colbert\n\nOur Copyright Policy\n--------------------\nNucleic uses a shared copyright model. Each contributor maintains copyright\nover their contributions to Nucleic. But, it is important to note that these\ncontributions are typically only changes to the repositories. Thus, the Nucleic\nsource code, in its entirety is not the copyright of any single person or\ninstitution. Instead, it is the collective copyright of the entire Nucleic\nDevelopment Team. If individual contributors want to maintain a record of what\nchanges/contributions they have specific copyright on, they should indicate\ntheir copyright in the commit message of the change, when they commit the\nchange to one of the Nucleic repositories.\n\nWith this in mind, the following banner should be used in any source code file\nto indicate the copyright and license terms:\n\n#------------------------------------------------------------------------------\n# Copyright (c) 2013-2025, Nucleic Development Team.\n#\n# Distributed under the terms of the Modified BSD License.\n#\n# The full license is in the file LICENSE, distributed with this software.\n#------------------------------------------------------------------------------\n",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License"
+      ],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "homepage, https://github.com/nucleic/kiwi",
+        "documentation, https://kiwisolver.readthedocs.io/en/latest/",
+        "repository, https://github.com/nucleic/kiwi",
+        "changelog, https://github.com/nucleic/kiwi/blob/main/releasenotes.rst"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "kiwisolver-1.4.9.dist-info/licenses/LICENSE",
+          "saved_path": "packages/kiwisolver-1.4.9/001_LICENSE",
+          "sha256": "ec817f05f420b00835020fb5c7067433ade3424d256dd3a78a1a8f8a5d9d87f3"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.10.8",
+      "license_expression": "",
+      "license_metadata": "License agreement for matplotlib versions 1.3.0 and later\n =========================================================\n\n 1. This LICENSE AGREEMENT is between the Matplotlib Development Team\n (\"MDT\"), and the Individual or Organization (\"Licensee\") accessing and\n otherwise using matplotlib software in source or binary form and its\n associated documentation.\n\n 2. Subject to the terms and conditions of this License Agreement, MDT\n hereby grants Licensee a nonexclusive, royalty-free, world-wide license\n to reproduce, analyze, test, perform and/or display publicly, prepare\n derivative works, distribute, and otherwise use matplotlib\n alone or in any derivative version, provided, however, that MDT's\n License Agreement and MDT's notice of copyright, i.e., \"Copyright (c)\n 2012- Matplotlib Development Team; All Rights Reserved\" are retained in\n matplotlib  alone or in any derivative version prepared by\n Licensee.\n\n 3. In the event Licensee prepares a derivative work that is based on or\n incorporates matplotlib or any part thereof, and wants to\n make the derivative work available to others as provided herein, then\n Licensee hereby agrees to include in any such work a brief summary of\n the changes made to matplotlib .\n\n 4. MDT is making matplotlib available to Licensee on an \"AS\n IS\" basis.  MDT MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR\n IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, MDT MAKES NO AND\n DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS\n FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF MATPLOTLIB\n WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.\n\n 5. MDT SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF MATPLOTLIB\n  FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR\n LOSS AS A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE USING\n MATPLOTLIB , OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF\n THE POSSIBILITY THEREOF.\n\n 6. This License Agreement will automatically terminate upon a material\n breach of its terms and conditions.\n\n 7. Nothing in this License Agreement shall be deemed to create any\n relationship of agency, partnership, or joint venture between MDT and\n Licensee.  This License Agreement does not grant permission to use MDT\n trademarks or trade name in a trademark sense to endorse or promote\n products or services of Licensee, or any third party.\n\n 8. By copying, installing or otherwise using matplotlib ,\n Licensee agrees to be bound by the terms and conditions of this License\n Agreement.\n\n License agreement for matplotlib versions prior to 1.3.0\n ========================================================\n\n 1. This LICENSE AGREEMENT is between John D. Hunter (\"JDH\"), and the\n Individual or Organization (\"Licensee\") accessing and otherwise using\n matplotlib software in source or binary form and its associated\n documentation.\n\n 2. Subject to the terms and conditions of this License Agreement, JDH\n hereby grants Licensee a nonexclusive, royalty-free, world-wide license\n to reproduce, analyze, test, perform and/or display publicly, prepare\n derivative works, distribute, and otherwise use matplotlib\n alone or in any derivative version, provided, however, that JDH's\n License Agreement and JDH's notice of copyright, i.e., \"Copyright (c)\n 2002-2011 John D. Hunter; All Rights Reserved\" are retained in\n matplotlib  alone or in any derivative version prepared by\n Licensee.\n\n 3. In the event Licensee prepares a derivative work that is based on or\n incorporates matplotlib  or any part thereof, and wants to\n make the derivative work available to others as provided herein, then\n Licensee hereby agrees to include in any such work a brief summary of\n the changes made to matplotlib.\n\n 4. JDH is making matplotlib  available to Licensee on an \"AS\n IS\" basis.  JDH MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR\n IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, JDH MAKES NO AND\n DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS\n FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF MATPLOTLIB\n WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.\n\n 5. JDH SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF MATPLOTLIB\n  FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR\n LOSS AS A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE USING\n MATPLOTLIB , OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF\n THE POSSIBILITY THEREOF.\n\n 6. This License Agreement will automatically terminate upon a material\n breach of its terms and conditions.\n\n 7. Nothing in this License Agreement shall be deemed to create any\n relationship of agency, partnership, or joint venture between JDH and\n Licensee.  This License Agreement does not grant permission to use JDH\n trademarks or trade name in a trademark sense to endorse or promote\n products or services of Licensee, or any third party.\n\n 8. By copying, installing or otherwise using matplotlib,\n Licensee agrees to be bound by the terms and conditions of this License\n Agreement.\n ----\n\n This binary distrubution of Matplotlib can also bundle the following software\n (depending on the build):\n\n Name: AMS Fonts\n Files: matplotlib/tests/cmr10.pfb\n Description: Type-1 version of one of Knuth's Computer Modern fonts\n License: OFL-1.1\n   The cmr10.pfb file is a Type-1 version of one of Knuth's Computer Modern fonts.\n   It is included here as test data only, but the following license applies.\n\n   Copyright (c) 1997, 2009, American Mathematical Society (http://www.ams.org).\n   All Rights Reserved.\n\n   \"cmb10\" is a Reserved Font Name for this Font Software.\n   \"cmbsy10\" is a Reserved Font Name for this Font Software.\n   \"cmbsy5\" is a Reserved Font Name for this Font Software.\n   \"cmbsy6\" is a Reserved Font Name for this Font Software.\n   \"cmbsy7\" is a Reserved Font Name for this Font Software.\n   \"cmbsy8\" is a Reserved Font Name for this Font Software.\n   \"cmbsy9\" is a Reserved Font Name for this Font Software.\n   \"cmbx10\" is a Reserved Font Name for this Font Software.\n   \"cmbx12\" is a Reserved Font Name for this Font Software.\n   \"cmbx5\" is a Reserved Font Name for this Font Software.\n   \"cmbx6\" is a Reserved Font Name for this Font Software.\n   \"cmbx7\" is a Reserved Font Name for this Font Software.\n   \"cmbx8\" is a Reserved Font Name for this Font Software.\n   \"cmbx9\" is a Reserved Font Name for this Font Software.\n   \"cmbxsl10\" is a Reserved Font Name for this Font Software.\n   \"cmbxti10\" is a Reserved Font Name for this Font Software.\n   \"cmcsc10\" is a Reserved Font Name for this Font Software.\n   \"cmcsc8\" is a Reserved Font Name for this Font Software.\n   \"cmcsc9\" is a Reserved Font Name for this Font Software.\n   \"cmdunh10\" is a Reserved Font Name for this Font Software.\n   \"cmex10\" is a Reserved Font Name for this Font Software.\n   \"cmex7\" is a Reserved Font Name for this Font Software.\n   \"cmex8\" is a Reserved Font Name for this Font Software.\n   \"cmex9\" is a Reserved Font Name for this Font Software.\n   \"cmff10\" is a Reserved Font Name for this Font Software.\n   \"cmfi10\" is a Reserved Font Name for this Font Software.\n   \"cmfib8\" is a Reserved Font Name for this Font Software.\n   \"cminch\" is a Reserved Font Name for this Font Software.\n   \"cmitt10\" is a Reserved Font Name for this Font Software.\n   \"cmmi10\" is a Reserved Font Name for this Font Software.\n   \"cmmi12\" is a Reserved Font Name for this Font Software.\n   \"cmmi5\" is a Reserved Font Name for this Font Software.\n   \"cmmi6\" is a Reserved Font Name for this Font Software.\n   \"cmmi7\" is a Reserved Font Name for this Font Software.\n   \"cmmi8\" is a Reserved Font Name for this Font Software.\n   \"cmmi9\" is a Reserved Font Name for this Font Software.\n   \"cmmib10\" is a Reserved Font Name for this Font Software.\n   \"cmmib5\" is a Reserved Font Name for this Font Software.\n   \"cmmib6\" is a Reserved Font Name for this Font Software.\n   \"cmmib7\" is a Reserved Font Name for this Font Software.\n   \"cmmib8\" is a Reserved Font Name for this Font Software.\n   \"cmmib9\" is a Reserved Font Name for this Font Software.\n   \"cmr10\" is a Reserved Font Name for this Font Software.\n   \"cmr12\" is a Reserved Font Name for this Font Software.\n   \"cmr17\" is a Reserved Font Name for this Font Software.\n   \"cmr5\" is a Reserved Font Name for this Font Software.\n   \"cmr6\" is a Reserved Font Name for this Font Software.\n   \"cmr7\" is a Reserved Font Name for this Font Software.\n   \"cmr8\" is a Reserved Font Name for this Font Software.\n   \"cmr9\" is a Reserved Font Name for this Font Software.\n   \"cmsl10\" is a Reserved Font Name for this Font Software.\n   \"cmsl12\" is a Reserved Font Name for this Font Software.\n   \"cmsl8\" is a Reserved Font Name for this Font Software.\n   \"cmsl9\" is a Reserved Font Name for this Font Software.\n   \"cmsltt10\" is a Reserved Font Name for this Font Software.\n   \"cmss10\" is a Reserved Font Name for this Font Software.\n   \"cmss12\" is a Reserved Font Name for this Font Software.\n   \"cmss17\" is a Reserved Font Name for this Font Software.\n   \"cmss8\" is a Reserved Font Name for this Font Software.\n   \"cmss9\" is a Reserved Font Name for this Font Software.\n   \"cmssbx10\" is a Reserved Font Name for this Font Software.\n   \"cmssdc10\" is a Reserved Font Name for this Font Software.\n   \"cmssi10\" is a Reserved Font Name for this Font Software.\n   \"cmssi12\" is a Reserved Font Name for this Font Software.\n   \"cmssi17\" is a Reserved Font Name for this Font Software.\n   \"cmssi8\" is a Reserved Font Name for this Font Software.\n   \"cmssi9\" is a Reserved Font Name for this Font Software.\n   \"cmssq8\" is a Reserved Font Name for this Font Software.\n   \"cmssqi8\" is a Reserved Font Name for this Font Software.\n   \"cmsy10\" is a Reserved Font Name for this Font Software.\n   \"cmsy5\" is a Reserved Font Name for this Font Software.\n   \"cmsy6\" is a Reserved Font Name for this Font Software.\n   \"cmsy7\" is a Reserved Font Name for this Font Software.\n   \"cmsy8\" is a Reserved Font Name for this Font Software.\n   \"cmsy9\" is a Reserved Font Name for this Font Software.\n   \"cmtcsc10\" is a Reserved Font Name for this Font Software.\n   \"cmtex10\" is a Reserved Font Name for this Font Software.\n   \"cmtex8\" is a Reserved Font Name for this Font Software.\n   \"cmtex9\" is a Reserved Font Name for this Font Software.\n   \"cmti10\" is a Reserved Font Name for this Font Software.\n   \"cmti12\" is a Reserved Font Name for this Font Software.\n   \"cmti7\" is a Reserved Font Name for this Font Software.\n   \"cmti8\" is a Reserved Font Name for this Font Software.\n   \"cmti9\" is a Reserved Font Name for this Font Software.\n   \"cmtt10\" is a Reserved Font Name for this Font Software.\n   \"cmtt12\" is a Reserved Font Name for this Font Software.\n   \"cmtt8\" is a Reserved Font Name for this Font Software.\n   \"cmtt9\" is a Reserved Font Name for this Font Software.\n   \"cmu10\" is a Reserved Font Name for this Font Software.\n   \"cmvtt10\" is a Reserved Font Name for this Font Software.\n   \"euex10\" is a Reserved Font Name for this Font Software.\n   \"euex7\" is a Reserved Font Name for this Font Software.\n   \"euex8\" is a Reserved Font Name for this Font Software.\n   \"euex9\" is a Reserved Font Name for this Font Software.\n   \"eufb10\" is a Reserved Font Name for this Font Software.\n   \"eufb5\" is a Reserved Font Name for this Font Software.\n   \"eufb7\" is a Reserved Font Name for this Font Software.\n   \"eufm10\" is a Reserved Font Name for this Font Software.\n   \"eufm5\" is a Reserved Font Name for this Font Software.\n   \"eufm7\" is a Reserved Font Name for this Font Software.\n   \"eurb10\" is a Reserved Font Name for this Font Software.\n   \"eurb5\" is a Reserved Font Name for this Font Software.\n   \"eurb7\" is a Reserved Font Name for this Font Software.\n   \"eurm10\" is a Reserved Font Name for this Font Software.\n   \"eurm5\" is a Reserved Font Name for this Font Software.\n   \"eurm7\" is a Reserved Font Name for this Font Software.\n   \"eusb10\" is a Reserved Font Name for this Font Software.\n   \"eusb5\" is a Reserved Font Name for this Font Software.\n   \"eusb7\" is a Reserved Font Name for this Font Software.\n   \"eusm10\" is a Reserved Font Name for this Font Software.\n   \"eusm5\" is a Reserved Font Name for this Font Software.\n   \"eusm7\" is a Reserved Font Name for this Font Software.\n   \"lasy10\" is a Reserved Font Name for this Font Software.\n   \"lasy5\" is a Reserved Font Name for this Font Software.\n   \"lasy6\" is a Reserved Font Name for this Font Software.\n   \"lasy7\" is a Reserved Font Name for this Font Software.\n   \"lasy8\" is a Reserved Font Name for this Font Software.\n   \"lasy9\" is a Reserved Font Name for this Font Software.\n   \"lasyb10\" is a Reserved Font Name for this Font Software.\n   \"lcircle1\" is a Reserved Font Name for this Font Software.\n   \"lcirclew\" is a Reserved Font Name for this Font Software.\n   \"lcmss8\" is a Reserved Font Name for this Font Software.\n   \"lcmssb8\" is a Reserved Font Name for this Font Software.\n   \"lcmssi8\" is a Reserved Font Name for this Font Software.\n   \"line10\" is a Reserved Font Name for this Font Software.\n   \"linew10\" is a Reserved Font Name for this Font Software.\n   \"msam10\" is a Reserved Font Name for this Font Software.\n   \"msam5\" is a Reserved Font Name for this Font Software.\n   \"msam6\" is a Reserved Font Name for this Font Software.\n   \"msam7\" is a Reserved Font Name for this Font Software.\n   \"msam8\" is a Reserved Font Name for this Font Software.\n   \"msam9\" is a Reserved Font Name for this Font Software.\n   \"msbm10\" is a Reserved Font Name for this Font Software.\n   \"msbm5\" is a Reserved Font Name for this Font Software.\n   \"msbm6\" is a Reserved Font Name for this Font Software.\n   \"msbm7\" is a Reserved Font Name for this Font Software.\n   \"msbm8\" is a Reserved Font Name for this Font Software.\n   \"msbm9\" is a Reserved Font Name for this Font Software.\n   \"wncyb10\" is a Reserved Font Name for this Font Software.\n   \"wncyi10\" is a Reserved Font Name for this Font Software.\n   \"wncyr10\" is a Reserved Font Name for this Font Software.\n   \"wncysc10\" is a Reserved Font Name for this Font Software.\n   \"wncyss10\" is a Reserved Font Name for this Font Software.\n\n   This Font Software is licensed under the SIL Open Font License, Version 1.1.\n   This license is copied below, and is also available with a FAQ at:\n   http://scripts.sil.org/OFL\n\n   -----------------------------------------------------------\n   SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n   -----------------------------------------------------------\n\n   PREAMBLE\n   The goals of the Open Font License (OFL) are to stimulate worldwide\n   development of collaborative font projects, to support the font creation\n   efforts of academic and linguistic communities, and to provide a free and\n   open framework in which fonts may be shared and improved in partnership\n   with others.\n\n   The OFL allows the licensed fonts to be used, studied, modified and\n   redistributed freely as long as they are not sold by themselves. The\n   fonts, including any derivative works, can be bundled, embedded, \n   redistributed and/or sold with any software provided that any reserved\n   names are not used by derivative works. The fonts and derivatives,\n   however, cannot be released under any other type of license. The\n   requirement for fonts to remain under this license does not apply\n   to any document created using the fonts or their derivatives.\n\n   DEFINITIONS\n   \"Font Software\" refers to the set of files released by the Copyright\n   Holder(s) under this license and clearly marked as such. This may\n   include source files, build scripts and documentation.\n\n   \"Reserved Font Name\" refers to any names specified as such after the\n   copyright statement(s).\n\n   \"Original Version\" refers to the collection of Font Software components as\n   distributed by the Copyright Holder(s).\n\n   \"Modified Version\" refers to any derivative made by adding to, deleting,\n   or substituting -- in part or in whole -- any of the components of the\n   Original Version, by changing formats or by porting the Font Software to a\n   new environment.\n\n   \"Author\" refers to any designer, engineer, programmer, technical\n   writer or other person who contributed to the Font Software.\n\n   PERMISSION & CONDITIONS\n   Permission is hereby granted, free of charge, to any person obtaining\n   a copy of the Font Software, to use, study, copy, merge, embed, modify,\n   redistribute, and sell modified and unmodified copies of the Font\n   Software, subject to the following conditions:\n\n   1) Neither the Font Software nor any of its individual components,\n   in Original or Modified Versions, may be sold by itself.\n\n   2) Original or Modified Versions of the Font Software may be bundled,\n   redistributed and/or sold with any software, provided that each copy\n   contains the above copyright notice and this license. These can be\n   included either as stand-alone text files, human-readable headers or\n   in the appropriate machine-readable metadata fields within text or\n   binary files as long as those fields can be easily viewed by the user.\n\n   3) No Modified Version of the Font Software may use the Reserved Font\n   Name(s) unless explicit written permission is granted by the corresponding\n   Copyright Holder. This restriction only applies to the primary font name as\n   presented to the users.\n\n   4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\n   Software shall not be used to promote, endorse or advertise any\n   Modified Version, except to acknowledge the contribution(s) of the\n   Copyright Holder(s) and the Author(s) or with their explicit written\n   permission.\n\n   5) The Font Software, modified or unmodified, in part or in whole,\n   must be distributed entirely under this license, and must not be\n   distributed under any other license. The requirement for fonts to\n   remain under this license does not apply to any document created\n   using the Font Software.\n\n   TERMINATION\n   This license becomes null and void if any of the above conditions are\n   not met.\n\n   DISCLAIMER\n   THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\n   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\n   OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\n   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\n   INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\n   DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\n   FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\n   OTHER DEALINGS IN THE FONT SOFTWARE.\n\n\n\n Name: BaKoMa Fonts\n Files: matplotlib/mpl-data/fonts/ttf/cm*.ttf matplotlib/mpl-data/fonts/afm/cm*.afm \n Description: Computer Modern Fonts in PostScript Type 1 and TrueType font formats.\n License: BaKoMa Fonts Licence\n         BaKoMa Fonts Licence\n         --------------------\n\n     This licence covers two font packs (known as BaKoMa Fonts Collection,\n     which is available at `CTAN:fonts/cm/ps-type1/bakoma/'):\n\n       1) BaKoMa-CM (1.1/12-Nov-94)\n          Computer Modern Fonts in PostScript Type 1 and TrueType font formats.\n\n       2) BaKoMa-AMS (1.2/19-Jan-95)\n          AMS TeX fonts in PostScript Type 1 and TrueType font formats.\n\n     Copyright (C) 1994, 1995, Basil K. Malyshev. All Rights Reserved.\n\n     Permission to copy and distribute these fonts for any purpose is \n     hereby granted without fee, provided that the above copyright notice, \n     author statement and this permission notice appear in all copies of \n     these fonts and related documentation.\n\n     Permission to modify and distribute modified fonts for any purpose is \n     hereby granted without fee, provided that the copyright notice, \n     author statement, this permission notice and location of original \n     fonts (http://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma)\n     appear in all copies of modified fonts and related documentation.\n\n     Permission to use these fonts (embedding into PostScript, PDF, SVG\n     and printing by using any software) is hereby granted without fee. \n     It is not required to provide any notices about using these fonts.\n\n    Basil K. Malyshev\n    INSTITUTE FOR HIGH ENERGY PHYSICS\n    IHEP, OMVT\n    Moscow Region\n    142281 PROTVINO\n    RUSSIA\n\n    E-Mail:\tbakoma@mail.ru\n         or\tmalyshev@mail.ihep.ru\n\n\n\n\n Name: ColorBrewer Color Schemes\n Files: lib/matplotlib/_cm.py\n Description: Color schemes from ColorBrewer\n License: Apache-2.0\n   Apache-Style Software License for ColorBrewer software and ColorBrewer Color Schemes\n\n   Copyright (c) 2002 Cynthia Brewer, Mark Harrower, and The Pennsylvania State University.\n\n   Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software distributed\n   under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR\n   CONDITIONS OF ANY KIND, either express or implied. See the License for the\n   specific language governing permissions and limitations under the License.\n\n\n Name: Courier 10\n Files: matplotlib/tests/Courier10PitchBT-Bold.pfb\n Description: Courier 10 font, used in tests.\n License: Bitstream-Charter\n   The Courier10PitchBT-Bold.pfb file is a Type-1 version of\n   Courier 10 Pitch BT Bold by Bitstream, obtained from\n   <https://ctan.org/tex-archive/fonts/courierten>. It is included\n   here as test data only, but the following license applies.\n\n\n   (c) Copyright 1989-1992, Bitstream Inc., Cambridge, MA.\n\n   You are hereby granted permission under all Bitstream propriety rights\n   to use, copy, modify, sublicense, sell, and redistribute the 4 Bitstream\n   Charter (r) Type 1 outline fonts and the 4 Courier Type 1 outline fonts\n   for any purpose and without restriction; provided, that this notice is\n   left intact on all copies of such fonts and that Bitstream's trademark\n   is acknowledged as shown below on all unmodified copies of the 4 Charter\n   Type 1 fonts.\n\n   BITSTREAM CHARTER is a registered trademark of Bitstream Inc.\n\n\n\n Name: JSXTools resize observer\n Files: \n Description: Minimal polyfill for the ResizeObserver API\n License: CC0-1.0\n   # CC0 1.0 Universal\n\n   ## Statement of Purpose\n\n   The laws of most jurisdictions throughout the world automatically confer\n   exclusive Copyright and Related Rights (defined below) upon the creator and\n   subsequent owner(s) (each and all, an “owner”) of an original work of\n   authorship and/or a database (each, a “Work”).\n\n   Certain owners wish to permanently relinquish those rights to a Work for the\n   purpose of contributing to a commons of creative, cultural and scientific works\n   (“Commons”) that the public can reliably and without fear of later claims of\n   infringement build upon, modify, incorporate in other works, reuse and\n   redistribute as freely as possible in any form whatsoever and for any purposes,\n   including without limitation commercial purposes. These owners may contribute\n   to the Commons to promote the ideal of a free culture and the further\n   production of creative, cultural and scientific works, or to gain reputation or\n   greater distribution for their Work in part through the use and efforts of\n   others.\n\n   For these and/or other purposes and motivations, and without any expectation of\n   additional consideration or compensation, the person associating CC0 with a\n   Work (the “Affirmer”), to the extent that he or she is an owner of Copyright\n   and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and\n   publicly distribute the Work under its terms, with knowledge of his or her\n   Copyright and Related Rights in the Work and the meaning and intended legal\n   effect of CC0 on those rights.\n\n   1. Copyright and Related Rights. A Work made available under CC0 may be\n      protected by copyright and related or neighboring rights (“Copyright and\n      Related Rights”). Copyright and Related Rights include, but are not limited\n      to, the following:\n      1. the right to reproduce, adapt, distribute, perform, display, communicate,\n         and translate a Work;\n      2. moral rights retained by the original author(s) and/or performer(s);\n      3. publicity and privacy rights pertaining to a person’s image or likeness\n         depicted in a Work;\n      4. rights protecting against unfair competition in regards to a Work,\n         subject to the limitations in paragraph 4(i), below;\n      5. rights protecting the extraction, dissemination, use and reuse of data in\n         a Work;\n      6. database rights (such as those arising under Directive 96/9/EC of the\n         European Parliament and of the Council of 11 March 1996 on the legal\n         protection of databases, and under any national implementation thereof,\n         including any amended or successor version of such directive); and\n      7. other similar, equivalent or corresponding rights throughout the world\n         based on applicable law or treaty, and any national implementations\n         thereof.\n\n   2. Waiver. To the greatest extent permitted by, but not in contravention of,\n      applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and\n      unconditionally waives, abandons, and surrenders all of Affirmer’s Copyright\n      and Related Rights and associated claims and causes of action, whether now\n      known or unknown (including existing as well as future claims and causes of\n      action), in the Work (i) in all territories worldwide, (ii) for the maximum\n      duration provided by applicable law or treaty (including future time\n      extensions), (iii) in any current or future medium and for any number of\n      copies, and (iv) for any purpose whatsoever, including without limitation\n      commercial, advertising or promotional purposes (the “Waiver”). Affirmer\n      makes the Waiver for the benefit of each member of the public at large and\n      to the detriment of Affirmer’s heirs and successors, fully intending that\n      such Waiver shall not be subject to revocation, rescission, cancellation,\n      termination, or any other legal or equitable action to disrupt the quiet\n      enjoyment of the Work by the public as contemplated by Affirmer’s express\n      Statement of Purpose.\n\n   3. Public License Fallback. Should any part of the Waiver for any reason be\n      judged legally invalid or ineffective under applicable law, then the Waiver\n      shall be preserved to the maximum extent permitted taking into account\n      Affirmer’s express Statement of Purpose. In addition, to the extent the\n      Waiver is so judged Affirmer hereby grants to each affected person a\n      royalty-free, non transferable, non sublicensable, non exclusive,\n      irrevocable and unconditional license to exercise Affirmer’s Copyright and\n      Related Rights in the Work (i) in all territories worldwide, (ii) for the\n      maximum duration provided by applicable law or treaty (including future time\n      extensions), (iii) in any current or future medium and for any number of\n      copies, and (iv) for any purpose whatsoever, including without limitation\n      commercial, advertising or promotional purposes (the “License”). The License\n      shall be deemed effective as of the date CC0 was applied by Affirmer to the\n      Work. Should any part of the License for any reason be judged legally\n      invalid or ineffective under applicable law, such partial invalidity or\n      ineffectiveness shall not invalidate the remainder of the License, and in\n      such case Affirmer hereby affirms that he or she will not (i) exercise any\n      of his or her remaining Copyright and Related Rights in the Work or (ii)\n      assert any associated claims and causes of action with respect to the Work,\n      in either case contrary to Affirmer’s express Statement of Purpose.\n\n   4. Limitations and Disclaimers.\n      1. No trademark or patent rights held by Affirmer are waived, abandoned,\n         surrendered, licensed or otherwise affected by this document.\n      2. Affirmer offers the Work as-is and makes no representations or warranties\n         of any kind concerning the Work, express, implied, statutory or\n         otherwise, including without limitation warranties of title,\n         merchantability, fitness for a particular purpose, non infringement, or\n         the absence of latent or other defects, accuracy, or the present or\n         absence of errors, whether or not discoverable, all to the greatest\n         extent permissible under applicable law.\n      3. Affirmer disclaims responsibility for clearing rights of other persons\n         that may apply to the Work or any use thereof, including without\n         limitation any person’s Copyright and Related Rights in the Work.\n         Further, Affirmer disclaims responsibility for obtaining any necessary\n         consents, permissions or other rights required for any use of the Work.\n      4. Affirmer understands and acknowledges that Creative Commons is not a\n         party to this document and has no duty or obligation with respect to this\n         CC0 or use of the Work.\n\n   For more information, please see\n   http://creativecommons.org/publicdomain/zero/1.0/.\n\n\n Name: QHull\n Files: matplotlib/_qhull.*.so\n Description: Convex hull, Delaunay triangulation, Voronoi diagrams, Halfspace intersection\n License: Qhull\n                       Qhull, Copyright (c) 1993-2020\n\n                               C.B. Barber\n                              Arlington, MA \n\n                                  and\n\n          The National Science and Technology Research Center for\n           Computation and Visualization of Geometric Structures\n                           (The Geometry Center)\n                          University of Minnesota\n\n                          email: qhull@qhull.org\n\n   This software includes Qhull from C.B. Barber and The Geometry Center.  \n   Files derived from Qhull 1.0 are copyrighted by the Geometry Center.  The\n   remaining files are copyrighted by C.B. Barber.  Qhull is free software \n   and may be obtained via http from www.qhull.org.  It may be freely copied, \n   modified, and redistributed under the following conditions:\n\n   1. All copyright notices must remain intact in all files.\n\n   2. A copy of this text file must be distributed along with any copies \n      of Qhull that you redistribute; this includes copies that you have \n      modified, or copies of programs or other software products that \n      include Qhull.\n\n   3. If you modify Qhull, you must include a notice giving the\n      name of the person performing the modification, the date of\n      modification, and the reason for such modification.\n\n   4. When distributing modified versions of Qhull, or other software \n      products that include Qhull, you must provide notice that the original \n      source code may be obtained as noted above.\n\n   5. There is no warranty or other guarantee of fitness for Qhull, it is \n      provided solely \"as is\".  Bug reports or fixes may be sent to \n      qhull_bug@qhull.org; the authors may or may not act on them as \n      they desire.\n\n\n Name: Qt4 Editor\n Files: matplotlib/backends/qt_editor\n Description: Module creating PyQt4 form dialogs/layouts to edit various type of parameters\n License: MIT\n   Module creating PyQt4 form dialogs/layouts to edit various type of parameters\n\n\n   formlayout License Agreement (MIT License)\n   ------------------------------------------\n\n   Copyright (c) 2009 Pierre Raybaut\n\n   Permission is hereby granted, free of charge, to any person\n   obtaining a copy of this software and associated documentation\n   files (the \"Software\"), to deal in the Software without\n   restriction, including without limitation the rights to use,\n   copy, modify, merge, publish, distribute, sublicense, and/or sell\n   copies of the Software, and to permit persons to whom the\n   Software is furnished to do so, subject to the following\n   conditions:\n\n   The above copyright notice and this permission notice shall be\n   included in all copies or substantial portions of the Software.\n\n   THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES\n   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\n   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\n   HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\n   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\n   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR\n   OTHER DEALINGS IN THE SOFTWARE.\n   \"\"\"\n\n\n Name: Solarized\n Files: matplotlib/mpl-data/stylelib/Solarize_Light2.mplstyle\n Description: Solarized color scheme/style\n License: MIT\n   https://github.com/altercation/solarized/blob/master/LICENSE\n   Copyright (c) 2011 Ethan Schoonover\n\n   Permission is hereby granted, free of charge, to any person obtaining a copy\n   of this software and associated documentation files (the \"Software\"), to deal\n   in the Software without restriction, including without limitation the rights\n   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n   copies of the Software, and to permit persons to whom the Software is\n   furnished to do so, subject to the following conditions:\n\n   The above copyright notice and this permission notice shall be included in\n   all copies or substantial portions of the Software.\n\n   THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n   THE SOFTWARE.\n\n\n Name: Stix fonts\n Files: matplotlib/mpl-data/fonts/ttf/STIX*.ttf\n Description: STIX fonts\n License:\n   TERMS AND CONDITIONS\n\n      1. Permission is hereby granted, free of charge, to any person \n   obtaining a copy of the STIX Fonts-TM set accompanying this license \n   (collectively, the \"Fonts\") and the associated documentation files \n   (collectively with the Fonts, the \"Font Software\"), to reproduce and \n   distribute the Font Software, including the rights to use, copy, merge \n   and publish copies of the Font Software, and to permit persons to whom \n   the Font Software is furnished to do so same, subject to the following \n   terms and conditions (the \"License\").\n\n      2. The following copyright and trademark notice and these Terms and \n   Conditions shall be included in all copies of one or more of the Font \n   typefaces and any derivative work created as permitted under this \n   License:\n\n     Copyright (c) 2001-2005 by the STI Pub Companies, consisting of \n   the American Institute of Physics, the American Chemical Society, the \n   American Mathematical Society, the American Physical Society, Elsevier, \n   Inc., and The Institute of Electrical and Electronic Engineers, Inc. \n   Portions copyright (c) 1998-2003 by MicroPress, Inc. Portions copyright \n   (c) 1990 by Elsevier, Inc. All rights reserved. STIX Fonts-TM is a \n   trademark of The Institute of Electrical and Electronics Engineers, Inc.\n\n      3. You may (a) convert the Fonts from one format to another (e.g., \n   from TrueType to PostScript), in which case the normal and reasonable \n   distortion that occurs during such conversion shall be permitted and (b) \n   embed or include a subset of the Fonts in a document for the purposes of \n   allowing users to read text in the document that utilizes the Fonts. In \n   each case, you may use the STIX Fonts-TM mark to designate the resulting \n   Fonts or subset of the Fonts.\n\n      4. You may also (a) add glyphs or characters to the Fonts, or modify \n   the shape of existing glyphs, so long as the base set of glyphs is not \n   removed and (b) delete glyphs or characters from the Fonts, provided \n   that the resulting font set is distributed with the following \n   disclaimer: \"This [name] font does not include all the Unicode points \n   covered in the STIX Fonts-TM set but may include others.\" In each case, \n   the name used to denote the resulting font set shall not include the \n   term \"STIX\" or any similar term.\n\n      5. You may charge a fee in connection with the distribution of the \n   Font Software, provided that no copy of one or more of the individual \n   Font typefaces that form the STIX Fonts-TM set may be sold by itself.\n\n      6. THE FONT SOFTWARE IS PROVIDED \"AS IS,\" WITHOUT WARRANTY OF ANY \n   KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES \n   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT \n   OF COPYRIGHT, PATENT, TRADEMARK OR OTHER RIGHT. IN NO EVENT SHALL \n   MICROPRESS OR ANY OF THE STI PUB COMPANIES BE LIABLE FOR ANY CLAIM, \n   DAMAGES OR OTHER LIABILITY, INCLUDING, BUT NOT LIMITED TO, ANY GENERAL, \n   SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, WHETHER IN AN \n   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM OR OUT OF THE USE OR \n   INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT \n   SOFTWARE.\n\n      7. Except as contained in the notice set forth in Section 2, the \n   names MicroPress Inc. and STI Pub Companies, as well as the names of the \n   companies/organizations that compose the STI Pub Companies, shall not be \n   used in advertising or otherwise to promote the sale, use or other \n   dealings in the Font Software without the prior written consent of the \n   respective company or organization.\n\n      8. This License shall become null and void in the event of any \n   material breach of the Terms and Conditions herein by licensee.\n\n      9. A substantial portion of the STIX Fonts set was developed by \n   MicroPress Inc. for the STI Pub Companies. To obtain additional \n   mathematical fonts, please contact MicroPress, Inc., 68-30 Harrow \n   Street, Forest Hills, NY 11375, USA - Phone: (718) 575-1816.\n\n\n Name: Yorick Colormaps\n Files: lib/matplotlib/_cm.py\n Description: Gist/Yorick colormaps\n License:\n   BSD-style license for gist/yorick colormaps.\n\n   Copyright:\n\n     Copyright (c) 1996.  The Regents of the University of California.\n          All rights reserved.\n\n   Permission to use, copy, modify, and distribute this software for any\n   purpose without fee is hereby granted, provided that this entire\n   notice is included in all copies of any software which is or includes\n   a copy or modification of this software and in all copies of the\n   supporting documentation for such software.\n\n   This work was produced at the University of California, Lawrence\n   Livermore National Laboratory under contract no. W-7405-ENG-48 between\n   the U.S. Department of Energy and The Regents of the University of\n   California for the operation of UC LLNL.\n\n\n               DISCLAIMER\n\n   This software was prepared as an account of work sponsored by an\n   agency of the United States Government.  Neither the United States\n   Government nor the University of California nor any of their\n   employees, makes any warranty, express or implied, or assumes any\n   liability or responsibility for the accuracy, completeness, or\n   usefulness of any information, apparatus, product, or process\n   disclosed, or represents that its use would not infringe\n   privately-owned rights.  Reference herein to any specific commercial\n   products, process, or service by trade name, trademark, manufacturer,\n   or otherwise, does not necessarily constitute or imply its\n   endorsement, recommendation, or favoring by the United States\n   Government or the University of California.  The views and opinions of\n   authors expressed herein do not necessarily state or reflect those of\n   the United States Government or the University of California, and\n   shall not be used for advertising or product endorsement purposes.\n\n\n           AUTHOR\n\n   David H. Munro wrote Yorick and Gist.  Berkeley Yacc (byacc) generated\n   the Yorick parser.  The routines in Math are from LAPACK and FFTPACK;\n   MathC contains C translations by David H. Munro.  The algorithms for\n   Yorick's random number generator and several special functions in\n   Yorick/include were taken from Numerical Recipes by Press, et. al.,\n   although the Yorick implementations are unrelated to those in\n   Numerical Recipes.  A small amount of code in Gist was adapted from\n   the X11R4 release, copyright M.I.T. -- the complete copyright notice\n   may be found in the (unused) file Gist/host.c.\n",
+      "license_classifiers": [
+        "License :: OSI Approved :: Python Software Foundation License"
+      ],
+      "declared_license_files": [],
+      "project_urls": [
+        "Homepage, https://matplotlib.org",
+        "Download, https://matplotlib.org/stable/install/index.html",
+        "Documentation, https://matplotlib.org",
+        "Source Code, https://github.com/matplotlib/matplotlib",
+        "Bug Tracker, https://github.com/matplotlib/matplotlib/issues",
+        "Forum, https://discourse.matplotlib.org/",
+        "Donate, https://numfocus.org/donate-to-matplotlib"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "matplotlib-3.10.8.dist-info/LICENSE",
+          "saved_path": "packages/matplotlib-3.10.8/001_LICENSE",
+          "sha256": "dbb9ad7495a83b0f2f48c94b06e23020587d82f8d1492dcb717fb1ebc2f86c18"
+        },
+        {
+          "installed_relative_path": "matplotlib/mpl-data/fonts/ttf/LICENSE_DEJAVU",
+          "saved_path": "packages/matplotlib-3.10.8/002_LICENSE_DEJAVU",
+          "sha256": "d75938dec098f06f0ac3c00853065d94f020be1c3c62ef1dc2975ba15b4d9b0e"
+        },
+        {
+          "installed_relative_path": "matplotlib/mpl-data/fonts/ttf/LICENSE_STIX",
+          "saved_path": "packages/matplotlib-3.10.8/003_LICENSE_STIX",
+          "sha256": "bab3d31dfef07f483624f2f65f2711e76065b8e7273278b1c071ede1041c9959"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "numpy",
+      "version": "2.4.2",
+      "license_expression": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+      "license_metadata": "",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE.txt",
+        "numpy/_core/include/numpy/libdivide/LICENSE.txt",
+        "numpy/_core/src/common/pythoncapi-compat/COPYING",
+        "numpy/_core/src/highway/LICENSE",
+        "numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+        "numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+        "numpy/_core/src/umath/svml/LICENSE",
+        "numpy/fft/pocketfft/LICENSE.md",
+        "numpy/linalg/lapack_lite/LICENSE.txt",
+        "numpy/ma/LICENSE",
+        "numpy/random/LICENSE.md",
+        "numpy/random/src/distributions/LICENSE.md",
+        "numpy/random/src/mt19937/LICENSE.md",
+        "numpy/random/src/pcg64/LICENSE.md",
+        "numpy/random/src/philox/LICENSE.md",
+        "numpy/random/src/sfc64/LICENSE.md",
+        "numpy/random/src/splitmix64/LICENSE.md"
+      ],
+      "project_urls": [
+        "homepage, https://numpy.org",
+        "documentation, https://numpy.org/doc/",
+        "source, https://github.com/numpy/numpy",
+        "download, https://pypi.org/project/numpy/#files",
+        "tracker, https://github.com/numpy/numpy/issues",
+        "release notes, https://numpy.org/doc/stable/release"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/LICENSE.txt",
+          "saved_path": "packages/numpy-2.4.2/001_LICENSE.txt",
+          "sha256": "a804dff0ead9fadc5293456410bcbfc32bf024be9c4513459663fb7b442d2341"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+          "saved_path": "packages/numpy-2.4.2/002_LICENSE.txt",
+          "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+          "saved_path": "packages/numpy-2.4.2/003_COPYING",
+          "sha256": "aea41976c720f91bd19725c16916a1ace40eb1ea42620d340e587a5de4bbcea0"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+          "saved_path": "packages/numpy-2.4.2/004_LICENSE",
+          "sha256": "d208152e2777ffd0126eacc1bd21c0320d69e4e6b622d21a2a12a47e8ef73763"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+          "saved_path": "packages/numpy-2.4.2/005_dragon4_LICENSE.txt",
+          "sha256": "b0fd592d4ead563148e3977e7b589169d46a5ef2ff133c755a81af880a3fc919"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/006_LICENSE.md",
+          "sha256": "a732977853530066790c42817087f4829b518dd98d340c916acbfd227e39d3cb"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+          "saved_path": "packages/numpy-2.4.2/007_LICENSE",
+          "sha256": "585483905b13d4b42f800c55ba99e89d6e2e33ccd5f503e201c07531d148ff41"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/008_LICENSE.md",
+          "sha256": "8db000e158c162e7249787852d8c69764706502ccee725c06641b31c1e95c8af"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+          "saved_path": "packages/numpy-2.4.2/009_LICENSE.txt",
+          "sha256": "19060ef465e1797d682ee0fc3081bd25ab1395e995e43d25c9d13c95d9a3cd6b"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/ma/LICENSE",
+          "saved_path": "packages/numpy-2.4.2/010_LICENSE",
+          "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/random/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/011_LICENSE.md",
+          "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/012_LICENSE.md",
+          "sha256": "cf5619f25b112d5ce7c896efffc8e610bcb345dfadcc19f2c1460aa48fff2c9e"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/013_LICENSE.md",
+          "sha256": "92c10699884321f1c2947fe2a70ab23b0fbf1507f756d89dd08f38c61fc3d4fa"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/014_LICENSE.md",
+          "sha256": "41190663b77bee5302386495a07b7eabfbfa571aa0ae2f11da6764162062fc4f"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/015_LICENSE.md",
+          "sha256": "322ac46d870c8aeead6c53adcccc839296fb3c8e456eae155081297daf7f8013"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/016_LICENSE.md",
+          "sha256": "28cad82ce1379dc529df30da78ec012d7d0d1d576b03ddcb93388aee53659f59"
+        },
+        {
+          "installed_relative_path": "numpy-2.4.2.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/017_LICENSE.md",
+          "sha256": "454ec7350e478e037061850b67395753b425b1cb0a34bbc26290b020bf89d763"
+        },
+        {
+          "installed_relative_path": "numpy/_core/include/numpy/random/LICENSE.txt",
+          "saved_path": "packages/numpy-2.4.2/018_LICENSE.txt",
+          "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150"
+        },
+        {
+          "installed_relative_path": "numpy/ma/LICENSE",
+          "saved_path": "packages/numpy-2.4.2/019_LICENSE",
+          "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7"
+        },
+        {
+          "installed_relative_path": "numpy/random/LICENSE.md",
+          "saved_path": "packages/numpy-2.4.2/020_LICENSE.md",
+          "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "packaging",
+      "version": "26.0",
+      "license_expression": "Apache-2.0 OR BSD-2-Clause",
+      "license_metadata": "",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE",
+        "LICENSE.APACHE",
+        "LICENSE.BSD"
+      ],
+      "project_urls": [
+        "Documentation, https://packaging.pypa.io/",
+        "Source, https://github.com/pypa/packaging"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "packaging-26.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/packaging-26.0/001_LICENSE",
+          "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+        },
+        {
+          "installed_relative_path": "packaging-26.0.dist-info/licenses/LICENSE.APACHE",
+          "saved_path": "packages/packaging-26.0/002_LICENSE.APACHE",
+          "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+        },
+        {
+          "installed_relative_path": "packaging-26.0.dist-info/licenses/LICENSE.BSD",
+          "saved_path": "packages/packaging-26.0/003_LICENSE.BSD",
+          "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "pefile",
+      "version": "2024.8.26",
+      "license_expression": "",
+      "license_metadata": "MIT",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [],
+      "home_page": "https://github.com/erocarrera/pefile",
+      "copied_files": [
+        {
+          "installed_relative_path": "pefile-2024.8.26.dist-info/LICENSE",
+          "saved_path": "packages/pefile-2024.8.26/001_LICENSE",
+          "sha256": "b44409c067c6da52bfb54bb6624fb11a7b52157c3a13ae1400232f8196e86ad3"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "pillow",
+      "version": "12.1.1",
+      "license_expression": "MIT-CMU",
+      "license_metadata": "",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "Changelog, https://github.com/python-pillow/Pillow/releases",
+        "Documentation, https://pillow.readthedocs.io",
+        "Funding, https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=pypi",
+        "Homepage, https://python-pillow.github.io",
+        "Mastodon, https://fosstodon.org/@pillow",
+        "Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+        "Source, https://github.com/python-pillow/Pillow"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pillow-12.1.1.dist-info/licenses/LICENSE",
+          "saved_path": "packages/pillow-12.1.1/001_LICENSE",
+          "sha256": "926df5f888a7337fd4126a435202edf2847312be81a167df91a6d70cfa3f2ed3"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "pip",
+      "version": "26.0.1",
+      "license_expression": "MIT",
+      "license_metadata": "",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "AUTHORS.txt",
+        "LICENSE.txt",
+        "src/pip/_vendor/cachecontrol/LICENSE.txt",
+        "src/pip/_vendor/certifi/LICENSE",
+        "src/pip/_vendor/dependency_groups/LICENSE.txt",
+        "src/pip/_vendor/distlib/LICENSE.txt",
+        "src/pip/_vendor/distro/LICENSE",
+        "src/pip/_vendor/idna/LICENSE.md",
+        "src/pip/_vendor/msgpack/COPYING",
+        "src/pip/_vendor/packaging/LICENSE",
+        "src/pip/_vendor/packaging/LICENSE.APACHE",
+        "src/pip/_vendor/packaging/LICENSE.BSD",
+        "src/pip/_vendor/pkg_resources/LICENSE",
+        "src/pip/_vendor/platformdirs/LICENSE",
+        "src/pip/_vendor/pygments/LICENSE",
+        "src/pip/_vendor/pyproject_hooks/LICENSE",
+        "src/pip/_vendor/requests/LICENSE",
+        "src/pip/_vendor/resolvelib/LICENSE",
+        "src/pip/_vendor/rich/LICENSE",
+        "src/pip/_vendor/tomli/LICENSE",
+        "src/pip/_vendor/tomli_w/LICENSE",
+        "src/pip/_vendor/truststore/LICENSE",
+        "src/pip/_vendor/urllib3/LICENSE.txt"
+      ],
+      "project_urls": [
+        "Changelog, https://pip.pypa.io/en/stable/news/",
+        "Documentation, https://pip.pypa.io",
+        "Homepage, https://pip.pypa.io/",
+        "Source, https://github.com/pypa/pip"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/AUTHORS.txt",
+          "saved_path": "packages/pip-26.0.1/001_AUTHORS.txt",
+          "sha256": "82b4a5f580cd3a93851494d7f1960a49d81fa2e5e2fc3ce5472606136faee5a2"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/002_LICENSE.txt",
+          "sha256": "634300a669d49aeae65b12c6c48c924c51a4cdf3d1ff086dc3456dc8bcaa2104"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/cachecontrol/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/003_LICENSE.txt",
+          "sha256": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/certifi/LICENSE",
+          "saved_path": "packages/pip-26.0.1/004_LICENSE",
+          "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/dependency_groups/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/005_LICENSE.txt",
+          "sha256": "1ab36e3e2a4ba8631625384f87e9e091db1faed034c5b23325b3239abf2cc525"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/distlib/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/006_LICENSE.txt",
+          "sha256": "808e10c8a6ab8deb149ff9b3fb19f447a808094606d712a9ca57fead3552599d"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/distro/LICENSE",
+          "saved_path": "packages/pip-26.0.1/007_LICENSE",
+          "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+          "saved_path": "packages/pip-26.0.1/008_LICENSE.md",
+          "sha256": "b7a336abf3b04e180ec065cdd16e705d079e1cc7a14f910aa6e9187f36b9cd87"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/msgpack/COPYING",
+          "saved_path": "packages/pip-26.0.1/009_COPYING",
+          "sha256": "492dedba85da5872f78e6091bcd1fea474d660d35acb4dee964b8aab3f007427"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/packaging/LICENSE",
+          "saved_path": "packages/pip-26.0.1/010_LICENSE",
+          "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/packaging/LICENSE.APACHE",
+          "saved_path": "packages/pip-26.0.1/011_LICENSE.APACHE",
+          "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/packaging/LICENSE.BSD",
+          "saved_path": "packages/pip-26.0.1/012_LICENSE.BSD",
+          "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/pkg_resources/LICENSE",
+          "saved_path": "packages/pip-26.0.1/013_LICENSE",
+          "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/platformdirs/LICENSE",
+          "saved_path": "packages/pip-26.0.1/014_LICENSE",
+          "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/pygments/LICENSE",
+          "saved_path": "packages/pip-26.0.1/015_LICENSE",
+          "sha256": "a9d66f1d526df02e29dce73436d34e56e8632f46c275bbdffc70569e882f9f17"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/pyproject_hooks/LICENSE",
+          "saved_path": "packages/pip-26.0.1/016_LICENSE",
+          "sha256": "1b22b049b5267d6dfc23a67bf4a84d8ec04b9fdfb1a51d360e42b4342c8b4154"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/requests/LICENSE",
+          "saved_path": "packages/pip-26.0.1/017_LICENSE",
+          "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/resolvelib/LICENSE",
+          "saved_path": "packages/pip-26.0.1/018_LICENSE",
+          "sha256": "f388fd38cad13112c1dc0f669bbe80e7f84541edbafb72f3030d2ca7642c3c9d"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/rich/LICENSE",
+          "saved_path": "packages/pip-26.0.1/019_LICENSE",
+          "sha256": "deed7c17a4318158190a3ea239cc879a5a50271cebb98ae7025f48fbe58dca15"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/tomli/LICENSE",
+          "saved_path": "packages/pip-26.0.1/020_LICENSE",
+          "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/tomli_w/LICENSE",
+          "saved_path": "packages/pip-26.0.1/021_LICENSE",
+          "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/truststore/LICENSE",
+          "saved_path": "packages/pip-26.0.1/022_LICENSE",
+          "sha256": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca"
+        },
+        {
+          "installed_relative_path": "pip-26.0.1.dist-info/licenses/src/pip/_vendor/urllib3/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/023_LICENSE.txt",
+          "sha256": "c37bf186e27cf9dbe9619e55edfe3cea7b30091ceb3da63c7dacbe0e6d77907b"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/cachecontrol/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/024_LICENSE.txt",
+          "sha256": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/certifi/LICENSE",
+          "saved_path": "packages/pip-26.0.1/025_LICENSE",
+          "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/dependency_groups/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/026_LICENSE.txt",
+          "sha256": "1ab36e3e2a4ba8631625384f87e9e091db1faed034c5b23325b3239abf2cc525"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/distlib/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/027_LICENSE.txt",
+          "sha256": "808e10c8a6ab8deb149ff9b3fb19f447a808094606d712a9ca57fead3552599d"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/distro/LICENSE",
+          "saved_path": "packages/pip-26.0.1/028_LICENSE",
+          "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/idna/LICENSE.md",
+          "saved_path": "packages/pip-26.0.1/029_LICENSE.md",
+          "sha256": "b7a336abf3b04e180ec065cdd16e705d079e1cc7a14f910aa6e9187f36b9cd87"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/msgpack/COPYING",
+          "saved_path": "packages/pip-26.0.1/030_COPYING",
+          "sha256": "492dedba85da5872f78e6091bcd1fea474d660d35acb4dee964b8aab3f007427"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/packaging/LICENSE",
+          "saved_path": "packages/pip-26.0.1/031_LICENSE",
+          "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/packaging/LICENSE.APACHE",
+          "saved_path": "packages/pip-26.0.1/032_LICENSE.APACHE",
+          "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/packaging/LICENSE.BSD",
+          "saved_path": "packages/pip-26.0.1/033_LICENSE.BSD",
+          "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/pkg_resources/LICENSE",
+          "saved_path": "packages/pip-26.0.1/034_LICENSE",
+          "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/platformdirs/LICENSE",
+          "saved_path": "packages/pip-26.0.1/035_LICENSE",
+          "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/pygments/LICENSE",
+          "saved_path": "packages/pip-26.0.1/036_LICENSE",
+          "sha256": "a9d66f1d526df02e29dce73436d34e56e8632f46c275bbdffc70569e882f9f17"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/pyproject_hooks/LICENSE",
+          "saved_path": "packages/pip-26.0.1/037_LICENSE",
+          "sha256": "1b22b049b5267d6dfc23a67bf4a84d8ec04b9fdfb1a51d360e42b4342c8b4154"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/requests/LICENSE",
+          "saved_path": "packages/pip-26.0.1/038_LICENSE",
+          "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/resolvelib/LICENSE",
+          "saved_path": "packages/pip-26.0.1/039_LICENSE",
+          "sha256": "f388fd38cad13112c1dc0f669bbe80e7f84541edbafb72f3030d2ca7642c3c9d"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/rich/LICENSE",
+          "saved_path": "packages/pip-26.0.1/040_LICENSE",
+          "sha256": "deed7c17a4318158190a3ea239cc879a5a50271cebb98ae7025f48fbe58dca15"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/tomli/LICENSE",
+          "saved_path": "packages/pip-26.0.1/041_LICENSE",
+          "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/tomli_w/LICENSE",
+          "saved_path": "packages/pip-26.0.1/042_LICENSE",
+          "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/truststore/LICENSE",
+          "saved_path": "packages/pip-26.0.1/043_LICENSE",
+          "sha256": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca"
+        },
+        {
+          "installed_relative_path": "pip/_vendor/urllib3/LICENSE.txt",
+          "saved_path": "packages/pip-26.0.1/044_LICENSE.txt",
+          "sha256": "c37bf186e27cf9dbe9619e55edfe3cea7b30091ceb3da63c7dacbe0e6d77907b"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "pyinstaller",
+      "version": "6.19.0",
+      "license_expression": "",
+      "license_metadata": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+      "license_classifiers": [
+        "License :: OSI Approved :: GNU General Public License v2 (GPLv2)"
+      ],
+      "declared_license_files": [
+        "COPYING.txt"
+      ],
+      "project_urls": [
+        "Homepage, https://pyinstaller.org",
+        "Documentation, https://pyinstaller.org",
+        "Source Code, https://github.com/pyinstaller/pyinstaller",
+        "Release Notes, https://pyinstaller.org/en/stable/CHANGES.html"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyinstaller-6.19.0.dist-info/licenses/COPYING.txt",
+          "saved_path": "packages/pyinstaller-6.19.0/001_COPYING.txt",
+          "sha256": "dcf75fdb959db1e3b41c0f8505069d2ece781b5ec6b3d0a4d30975cfc6580245"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "pyinstaller-hooks-contrib",
+      "version": "2026.2",
+      "license_expression": "",
+      "license_metadata": "",
+      "license_classifiers": [
+        "License :: OSI Approved :: Apache Software License",
+        "License :: OSI Approved :: GNU General Public License v2 (GPLv2)"
+      ],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [],
+      "home_page": "https://github.com/pyinstaller/pyinstaller-hooks-contrib",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyinstaller_hooks_contrib-2026.2.dist-info/licenses/LICENSE",
+          "saved_path": "packages/pyinstaller-hooks-contrib-2026.2/001_LICENSE",
+          "sha256": "91d0baaff00773038e72c0a1fc9d5d2d38706b7a2b9c04f34296608f931b9cd0"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "pyparsing",
+      "version": "3.3.2",
+      "license_expression": "MIT",
+      "license_metadata": "",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "Documentation, https://pyparsing-docs.readthedocs.io/en/latest/",
+        "Homepage, https://github.com/pyparsing/pyparsing/",
+        "Source, https://github.com/pyparsing/pyparsing.git"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyparsing-3.3.2.dist-info/licenses/LICENSE",
+          "saved_path": "packages/pyparsing-3.3.2/001_LICENSE",
+          "sha256": "a5425f9dc14ac74d4c5f0b679e941f2442e32cca7452a4418d5b1a49893ebe4e"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "PySide6",
+      "version": "6.10.2",
+      "license_expression": "",
+      "license_metadata": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LicenseRef-Qt-Commercial.txt"
+      ],
+      "project_urls": [
+        "Homepage, https://pyside.org",
+        "Documentation, https://doc.qt.io/qtforpython",
+        "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+        "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+        "Tracker, https://bugreports.qt.io/projects/PYSIDE"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyside6-6.10.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+          "saved_path": "packages/PySide6-6.10.2/001_LicenseRef-Qt-Commercial.txt",
+          "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "PySide6_Addons",
+      "version": "6.10.2",
+      "license_expression": "",
+      "license_metadata": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LicenseRef-Qt-Commercial.txt"
+      ],
+      "project_urls": [
+        "Homepage, https://pyside.org",
+        "Documentation, https://doc.qt.io/qtforpython",
+        "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+        "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+        "Tracker, https://bugreports.qt.io/projects/PYSIDE"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyside6_addons-6.10.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+          "saved_path": "packages/PySide6_Addons-6.10.2/001_LicenseRef-Qt-Commercial.txt",
+          "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "PySide6_Essentials",
+      "version": "6.10.2",
+      "license_expression": "",
+      "license_metadata": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LicenseRef-Qt-Commercial.txt"
+      ],
+      "project_urls": [
+        "Homepage, https://pyside.org",
+        "Documentation, https://doc.qt.io/qtforpython",
+        "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+        "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+        "Tracker, https://bugreports.qt.io/projects/PYSIDE"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyside6_essentials-6.10.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+          "saved_path": "packages/PySide6_Essentials-6.10.2/001_LicenseRef-Qt-Commercial.txt",
+          "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0",
+      "license_expression": "",
+      "license_metadata": "Dual License",
+      "license_classifiers": [
+        "License :: OSI Approved :: BSD License",
+        "License :: OSI Approved :: Apache Software License"
+      ],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "Documentation, https://dateutil.readthedocs.io/en/stable/",
+        "Source, https://github.com/dateutil/dateutil"
+      ],
+      "home_page": "https://github.com/dateutil/dateutil",
+      "copied_files": [
+        {
+          "installed_relative_path": "python_dateutil-2.9.0.post0.dist-info/LICENSE",
+          "saved_path": "packages/python-dateutil-2.9.0.post0/001_LICENSE",
+          "sha256": "ba00f51a0d92823b5a1cde27d8b5b9d2321e67ed8da9bc163eff96d5e17e577e"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "PyVISA",
+      "version": "1.16.2",
+      "license_expression": "",
+      "license_metadata": "The MIT License\n\nCopyright (c) 2005-2024 PyVISA Authors and contributors. See AUTHORS\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+      "license_classifiers": [
+        "License :: OSI Approved :: MIT License"
+      ],
+      "declared_license_files": [
+        "LICENSE",
+        "AUTHORS"
+      ],
+      "project_urls": [
+        "homepage, https://github.com/pyvisa/pyvisa",
+        "documentation, https://pyvisa.readthedocs.io/en/latest/",
+        "repository, https://github.com/pyvisa/pyvisa",
+        "changelog, https://github.com/pyvisa/pyvisa/blob/main/CHANGES"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyvisa-1.16.2.dist-info/licenses/AUTHORS",
+          "saved_path": "packages/PyVISA-1.16.2/001_AUTHORS",
+          "sha256": "9de624d84e87d24e6d523704f1eecfb2a9296ddb1bb6fc8f20f7d3c936238486"
+        },
+        {
+          "installed_relative_path": "pyvisa-1.16.2.dist-info/licenses/LICENSE",
+          "saved_path": "packages/PyVISA-1.16.2/002_LICENSE",
+          "sha256": "212d52221929294cd44f561c07089ea2a40a599e5af013cb3047460a918fceb2"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "PyVISA-py",
+      "version": "0.8.1",
+      "license_expression": "",
+      "license_metadata": "The MIT License\n\nCopyright (c) 2014 PyVISA-py Authors and contributors. See AUTHORS\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+      "license_classifiers": [
+        "License :: OSI Approved :: MIT License"
+      ],
+      "declared_license_files": [
+        "LICENSE",
+        "AUTHORS"
+      ],
+      "project_urls": [
+        "homepage, https://github.com/pyvisa/pyvisa-py",
+        "documentation, https://pyvisa-py.readthedocs.io/en/latest/",
+        "repository, https://github.com/pyvisa/pyvisa-py",
+        "changelog, https://github.com/pyvisa/pyvisa-py/blob/main/CHANGES"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "pyvisa_py-0.8.1.dist-info/licenses/AUTHORS",
+          "saved_path": "packages/PyVISA-py-0.8.1/001_AUTHORS",
+          "sha256": "cfd38d5b76335802d77e7aec35923d791cbbcc1fba4410317ec9950aa53c27fd"
+        },
+        {
+          "installed_relative_path": "pyvisa_py-0.8.1.dist-info/licenses/LICENSE",
+          "saved_path": "packages/PyVISA-py-0.8.1/002_LICENSE",
+          "sha256": "d4db1413d2f8f451c9c6281dfe73acdc946658b528769fce0939db3903883b0a"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "pywin32-ctypes",
+      "version": "0.2.3",
+      "license_expression": "",
+      "license_metadata": "BSD-3-Clause",
+      "license_classifiers": [],
+      "declared_license_files": [],
+      "project_urls": [],
+      "home_page": "https://github.com/enthought/pywin32-ctypes",
+      "copied_files": [
+        {
+          "installed_relative_path": "pywin32_ctypes-0.2.3.dist-info/LICENSE.txt",
+          "saved_path": "packages/pywin32-ctypes-0.2.3/001_LICENSE.txt",
+          "sha256": "dfa83b3e2709adfcdb838d9ad55823ca674abb780e60563d9dd9544ccbf785e9"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "setuptools",
+      "version": "82.0.0",
+      "license_expression": "MIT",
+      "license_metadata": "",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "Source, https://github.com/pypa/setuptools",
+        "Documentation, https://setuptools.pypa.io/",
+        "Changelog, https://setuptools.pypa.io/en/stable/history.html"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "setuptools-82.0.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/001_LICENSE",
+          "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/002_LICENSE",
+          "sha256": "ade78d04982d69972d444a8e14a94f87a2334dd3855cc80348ea8e240aa0df2d"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/003_LICENSE",
+          "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/004_LICENSE",
+          "sha256": "458502e12d97bbf64438606a20044aa85eb05fb0a8a807bb35dbec253fd1fc04"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/jaraco.text-4.0.0.dist-info/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/005_LICENSE",
+          "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/006_LICENSE",
+          "sha256": "9755a18519666e5f0f4cae3daad3d7012bcae48a600b31237d75e9fe134e6683"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/007_LICENSE",
+          "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/008_LICENSE",
+          "sha256": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/009_LICENSE",
+          "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.APACHE",
+          "saved_path": "packages/setuptools-82.0.0/010_LICENSE.APACHE",
+          "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.BSD",
+          "saved_path": "packages/setuptools-82.0.0/011_LICENSE.BSD",
+          "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/012_LICENSE",
+          "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/013_LICENSE",
+          "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt",
+          "saved_path": "packages/setuptools-82.0.0/014_LICENSE.txt",
+          "sha256": "30c23618679108f3e8ea1d2a658c7ca417bdfc891c98ef1a89fa4ff0c9828654"
+        },
+        {
+          "installed_relative_path": "setuptools/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/setuptools-82.0.0/015_LICENSE",
+          "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+        },
+        {
+          "installed_relative_path": "setuptools/config/NOTICE",
+          "saved_path": "packages/setuptools-82.0.0/016_NOTICE",
+          "sha256": "2dddf08818297a3b89d43d95ff659d8da85741108c9136dfa3a4d856c0623bd8"
+        },
+        {
+          "installed_relative_path": "setuptools/config/_validate_pyproject/NOTICE",
+          "saved_path": "packages/setuptools-82.0.0/017_NOTICE",
+          "sha256": "5d300dbfa643138b013b75ac9caeee591f951b8b0ee24288c34ccd926c4780c8"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "shiboken6",
+      "version": "6.10.2",
+      "license_expression": "",
+      "license_metadata": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LicenseRef-Qt-Commercial.txt"
+      ],
+      "project_urls": [
+        "Homepage, https://pyside.org",
+        "Documentation, https://doc.qt.io/qtforpython",
+        "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+        "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+        "Tracker, https://bugreports.qt.io/projects/PYSIDE"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "shiboken6-6.10.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+          "saved_path": "packages/shiboken6-6.10.2/001_LicenseRef-Qt-Commercial.txt",
+          "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "six",
+      "version": "1.17.0",
+      "license_expression": "",
+      "license_metadata": "MIT",
+      "license_classifiers": [
+        "License :: OSI Approved :: MIT License"
+      ],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [],
+      "home_page": "https://github.com/benjaminp/six",
+      "copied_files": [
+        {
+          "installed_relative_path": "six-1.17.0.dist-info/LICENSE",
+          "saved_path": "packages/six-1.17.0/001_LICENSE",
+          "sha256": "4375ba20e2b9c6c4e7cad2940a628fd90e95cc3d50ee92aae755715d8ba1fbd0"
+        }
+      ],
+      "review_notes": []
+    },
+    {
+      "name": "typing_extensions",
+      "version": "4.15.0",
+      "license_expression": "PSF-2.0",
+      "license_metadata": "",
+      "license_classifiers": [],
+      "declared_license_files": [
+        "LICENSE"
+      ],
+      "project_urls": [
+        "Bug Tracker, https://github.com/python/typing_extensions/issues",
+        "Changes, https://github.com/python/typing_extensions/blob/main/CHANGELOG.md",
+        "Documentation, https://typing-extensions.readthedocs.io/",
+        "Home, https://github.com/python/typing_extensions",
+        "Q & A, https://github.com/python/typing/discussions",
+        "Repository, https://github.com/python/typing_extensions"
+      ],
+      "home_page": "",
+      "copied_files": [
+        {
+          "installed_relative_path": "typing_extensions-4.15.0.dist-info/licenses/LICENSE",
+          "saved_path": "packages/typing_extensions-4.15.0/001_LICENSE",
+          "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+        }
+      ],
+      "review_notes": []
+    }
+  ],
+  "errors": [],
+  "outstanding_review": [
+    "Compare this inventory against files actually bundled by PyInstaller.",
+    "Check notices for bundled native libraries, fonts, and Python runtime components.",
+    "Provide required corresponding library source or a valid source-access mechanism.",
+    "Confirm users can replace or relink LGPL libraries and run the resulting application.",
+    "Make notices accessible in the application and in the release download."
+  ]
+}
+

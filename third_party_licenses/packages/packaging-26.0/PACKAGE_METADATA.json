@@ -1,0 +1,36 @@
+{
+  "name": "packaging",
+  "version": "26.0",
+  "license_expression": "Apache-2.0 OR BSD-2-Clause",
+  "license_metadata": "",
+  "license_classifiers": [],
+  "declared_license_files": [
+    "LICENSE",
+    "LICENSE.APACHE",
+    "LICENSE.BSD"
+  ],
+  "project_urls": [
+    "Documentation, https://packaging.pypa.io/",
+    "Source, https://github.com/pypa/packaging"
+  ],
+  "home_page": "",
+  "copied_files": [
+    {
+      "installed_relative_path": "packaging-26.0.dist-info/licenses/LICENSE",
+      "saved_path": "packages/packaging-26.0/001_LICENSE",
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "installed_relative_path": "packaging-26.0.dist-info/licenses/LICENSE.APACHE",
+      "saved_path": "packages/packaging-26.0/002_LICENSE.APACHE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "installed_relative_path": "packaging-26.0.dist-info/licenses/LICENSE.BSD",
+      "saved_path": "packages/packaging-26.0/003_LICENSE.BSD",
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    }
+  ],
+  "review_notes": []
+}
+

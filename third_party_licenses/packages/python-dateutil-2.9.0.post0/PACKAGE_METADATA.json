@@ -1,0 +1,27 @@
+{
+  "name": "python-dateutil",
+  "version": "2.9.0.post0",
+  "license_expression": "",
+  "license_metadata": "Dual License",
+  "license_classifiers": [
+    "License :: OSI Approved :: BSD License",
+    "License :: OSI Approved :: Apache Software License"
+  ],
+  "declared_license_files": [
+    "LICENSE"
+  ],
+  "project_urls": [
+    "Documentation, https://dateutil.readthedocs.io/en/stable/",
+    "Source, https://github.com/dateutil/dateutil"
+  ],
+  "home_page": "https://github.com/dateutil/dateutil",
+  "copied_files": [
+    {
+      "installed_relative_path": "python_dateutil-2.9.0.post0.dist-info/LICENSE",
+      "saved_path": "packages/python-dateutil-2.9.0.post0/001_LICENSE",
+      "sha256": "ba00f51a0d92823b5a1cde27d8b5b9d2321e67ed8da9bc163eff96d5e17e577e"
+    }
+  ],
+  "review_notes": []
+}
+

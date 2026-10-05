@@ -1,0 +1,27 @@
+{
+  "name": "PySide6",
+  "version": "6.10.2",
+  "license_expression": "",
+  "license_metadata": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+  "license_classifiers": [],
+  "declared_license_files": [
+    "LicenseRef-Qt-Commercial.txt"
+  ],
+  "project_urls": [
+    "Homepage, https://pyside.org",
+    "Documentation, https://doc.qt.io/qtforpython",
+    "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+    "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+    "Tracker, https://bugreports.qt.io/projects/PYSIDE"
+  ],
+  "home_page": "",
+  "copied_files": [
+    {
+      "installed_relative_path": "pyside6-6.10.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+      "saved_path": "packages/PySide6-6.10.2/001_LicenseRef-Qt-Commercial.txt",
+      "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+    }
+  ],
+  "review_notes": []
+}
+

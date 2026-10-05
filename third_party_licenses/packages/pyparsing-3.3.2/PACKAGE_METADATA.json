@@ -1,0 +1,25 @@
+{
+  "name": "pyparsing",
+  "version": "3.3.2",
+  "license_expression": "MIT",
+  "license_metadata": "",
+  "license_classifiers": [],
+  "declared_license_files": [
+    "LICENSE"
+  ],
+  "project_urls": [
+    "Documentation, https://pyparsing-docs.readthedocs.io/en/latest/",
+    "Homepage, https://github.com/pyparsing/pyparsing/",
+    "Source, https://github.com/pyparsing/pyparsing.git"
+  ],
+  "home_page": "",
+  "copied_files": [
+    {
+      "installed_relative_path": "pyparsing-3.3.2.dist-info/licenses/LICENSE",
+      "saved_path": "packages/pyparsing-3.3.2/001_LICENSE",
+      "sha256": "a5425f9dc14ac74d4c5f0b679e941f2442e32cca7452a4418d5b1a49893ebe4e"
+    }
+  ],
+  "review_notes": []
+}
+

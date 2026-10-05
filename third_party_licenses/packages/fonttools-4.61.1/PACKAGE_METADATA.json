@@ -1,0 +1,27 @@
+{
+  "name": "fonttools",
+  "version": "4.61.1",
+  "license_expression": "",
+  "license_metadata": "MIT",
+  "license_classifiers": [],
+  "declared_license_files": [
+    "LICENSE",
+    "LICENSE.external"
+  ],
+  "project_urls": [],
+  "home_page": "http://github.com/fonttools/fonttools",
+  "copied_files": [
+    {
+      "installed_relative_path": "fonttools-4.61.1.dist-info/licenses/LICENSE",
+      "saved_path": "packages/fonttools-4.61.1/001_LICENSE",
+      "sha256": "22bef80697ecfaa17f97e62b9a26dfa12820be05583e8dd12ad169b241274c99"
+    },
+    {
+      "installed_relative_path": "fonttools-4.61.1.dist-info/licenses/LICENSE.external",
+      "saved_path": "packages/fonttools-4.61.1/002_LICENSE.external",
+      "sha256": "b082a5f86775b2641f01bccb8b9c82908481de5f502bb254b1e13bfc2a9f303d"
+    }
+  ],
+  "review_notes": []
+}
+
