@@ -5,23 +5,29 @@ One PySide6 desktop application for the **Keysight DSO-X 1102G** and
 capture CH1/CH2, save waveforms in SQLite, inspect or overlay saved captures,
 and export numerical samples to CSV.
 
-## Test on Windows today
+## Quick start on Windows
 
-Extract this ZIP into its own folder, for example
-`C:\Users\rarma\Documents\UniversalScope`. Keep all the Python files together.
-Use the same NI-VISA installation that already works with your scope scripts.
+Download **UniversalScope.v1.0.0.exe** from the
+[v1.0.0 release](https://github.com/IliaKuznetcov/UniversalScope/releases/tag/v1.0.0).
+Place it in a writable folder and run it. This is a portable executable;
+Python is not required.
 
-The quickest route uses your existing Keysight virtual environment:
+Install **NI-VISA** separately before connecting a physical scope. The
+executable does not include the VISA driver. Both scopes were tested over USB
+on Windows on October 5, 2026.
+
+The app creates `waveforms.db` beside the executable and saves captures there.
+Keep the executable in a writable folder, and back up the database when needed.
+The source app and an executable in a different folder use separate databases.
+
+## Run from source
+
+Clone this repository, then create a dedicated environment
+(Python 3.13 recommended):
 
 ```powershell
-cd 'C:\Users\rarma\Documents\UniversalScope'
-& 'C:\Users\rarma\Documents\DSOx1102G\.venv\Scripts\python.exe' .\main.py
-```
-
-Alternatively, create a dedicated environment (Python 3.13 recommended):
-
-```powershell
-cd 'C:\Users\rarma\Documents\UniversalScope'
+git clone https://github.com/IliaKuznetcov/UniversalScope.git
+cd UniversalScope
 py -3.13 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 .\.venv\Scripts\python.exe main.py
@@ -30,7 +36,7 @@ py -3.13 -m venv .venv
 PyVISA uses the installed native VISA backend. Installing PyVISA alone does
 not install NI-VISA. No extra Python package is needed for NI-VISA USB access.
 
-## Bench test sequence
+## Using the application
 
 1. Let both scopes finish booting and connect their USB cables.
 2. Select **Keysight DSO-X 1102G** and click **Scan**. A single matching USB
@@ -113,6 +119,8 @@ separate for later review and debugging.
 
 ## Validation
 
+### Automated integration tests
+
 Run from this folder:
 
 ```powershell
@@ -130,26 +138,60 @@ The GUI was also launched and visually inspected during initial integration.
 Validation used PySide6 6.10.2, Matplotlib 3.10.8, PyVISA 1.16.2, and NumPy 2.3.5
 in Linux; requirements retain NumPy 2.4.2 from the existing Windows app.
 
-**Real instrument/Windows testing is still required.** No physical scope or
-Windows executable was available in the build environment.
+### Physical instrument testing
 
-## Git workflow
+Physical testing was completed on **October 5, 2026**, with a
+**Keysight DSO-X 1102G** and **Siglent SDS1202X HD** connected over USB on Windows.
+The source application and the PyInstaller executable were tested with both
+instruments. The user also confirmed that disconnect restores local operation
+on the Siglent.
 
-This is a separate application folder. The existing two GitHub repositories
-have not been changed. After the bench tests, initialize this folder as a new
-repository if desired:
+The saved square-wave comparison contains **12 captures**: three captures for
+each instrument/channel combination, with the signal tested on CH1 and CH2 in
+turn. Both channels were stored in each capture. Capture descriptions record
+**1.00 V/div** and **5 ms/div**; the stored time axes cover approximately **50 ms**.
 
-```powershell
-git init -b main
-git add .
-git commit -m 'Add unified Keysight and Siglent oscilloscope application'
-```
+| Instrument | Signal channel | Captures | Samples per channel | Sample interval | Measured period | Plateau amplitude range |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| Keysight DSO-X 1102G | CH1 | 3 | 62,500 | 0.8 us | approx. 10 ms | 3.377 V |
+| Keysight DSO-X 1102G | CH2 | 3 | 62,500 | 0.8 us | approx. 10 ms | 3.337-3.377 V |
+| Siglent SDS1202X HD | CH1 | 3 | 10,000 | 5.0 us | approx. 10 ms | 3.319-3.321 V |
+| Siglent SDS1202X HD | CH2 | 3 | 10,000 | 5.0 us | approx. 10 ms | 3.325-3.327 V |
 
-The database, virtual environment, and generated executables are ignored.
+The analysis used the channel identified in each capture description.
+Plateau amplitude is the difference between median high and low levels,
+rather than the noise-sensitive absolute maximum minus minimum; the table
+shows the range across the three captures. Period was estimated from the median
+spacing between rising crossings of a mid-level threshold, with linear
+interpolation between samples. Results are rounded to avoid implying calibrated
+timing precision.
 
-## Optional Windows executable
+The database passed SQLite's quick integrity check. All 24 stored channel
+records had matching time/voltage lengths, finite values, and strictly
+increasing time axes. Both instruments reproduced approximately **100 Hz**.
+Median plateau amplitudes differed by approximately **1.5-1.7%** between the
+instruments. This comparison supports consistent acquisition, storage, and
+gross voltage/time scaling; it does not establish absolute voltage accuracy
+because the database contains no calibrated reference value.
 
-Build after both instruments pass the bench tests:
+The raw test database is retained separately and is not committed to the
+source repository. The database does not record transfer durations or prove
+error-recovery behavior; the automated tests cover the simulated failure cases
+described above.
+
+## Development and data files
+
+UniversalScope is maintained as a separate repository. Its original Keysight
+and Siglent source repositories remain separate. The database, virtual
+environment, build directories, generated executables, and the local test CSV
+are ignored by Git.
+
+## Build the Windows executable
+
+Build on Windows from the application's virtual environment. Close the app
+before rebuilding. The following notice-collection commands assume that
+`third_party_licenses_reference` does not already exist; retain an earlier
+backup separately before repeating them:
 
 ```powershell
 .\.venv\Scripts\python.exe -m pip install pyinstaller==6.19.0
